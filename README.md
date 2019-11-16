@@ -26,7 +26,7 @@ Implemented **Naïve Bayes** classifier from scratch to predict categories for f
 ------------
 
 ### Clustering:
-Implemented ** K-means clustering** algorithm to cluster data points (x,y) generated via Gaussian distribution.  The algorithm stopped if there was no significant change coming in positions of centroids. Provided graphical visualization of the process of formation of clusters.
+Implemented **K-means clustering** algorithm to cluster data points (x,y) generated via Gaussian distribution.  The algorithm stopped if there was no significant change coming in positions of centroids. Provided graphical visualization of the process of formation of clusters.
 
 ------------
 
